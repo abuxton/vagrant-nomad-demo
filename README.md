@@ -1,7 +1,8 @@
 # vagrant nomad demo
 
 Project contains material for learning Nomad, and is a general scratch pad.
-## references
+
+## References
 
 - https://www.nomadproject.io/docs
 - https://github.com/hashicorp/nomad
